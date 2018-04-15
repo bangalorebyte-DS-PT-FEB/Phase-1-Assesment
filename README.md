@@ -13,7 +13,7 @@
 
 ##### Part 1 - Building the Markit API Wrapper
 
-* We'll be using the [Markit on Demand API](http://dev.markitondemand.com/) 
+* We'll be using the [Markit on Demand API](http://dev.markitondemand.com/MODApis/Api/v2/doc) 
 * We will be pulling data from this API in JSON format
 * Examples of the endpoint
 
