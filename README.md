@@ -2,6 +2,10 @@
 
 ---
 
+### Due 
+
+Please upload all you code files by Friday, 5pm in your own branch on this repository. I should be able to run your files easily.
+
 ### Description
 
 * We will be building a terminal stock trader game.
